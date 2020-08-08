@@ -1,0 +1,28 @@
+.form {
+  padding-left: 110px;
+}
+.form-control {
+  border: 2px solid black;
+  background-color:transparent;
+}
+.share_experience {
+  padding-top: 80px;
+  padding-left: 290px;
+  
+}
+.add-button {
+  border: 1px solid black;
+  background-color: black;
+  margin-top: 20px;
+  color: white;
+  margin-left: 35%;
+  
+}
+label{
+ font-weight: bold;  
+ color: black;
+ margin-top: 10px;
+}
+.form-control:hover{
+  background-color: white;
+}

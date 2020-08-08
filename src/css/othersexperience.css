@@ -1,0 +1,18 @@
+
+.single-experience{
+    background-image: url(../images/back_image);  
+    color: black;
+    border: 5px solid white;   
+}
+td{
+    padding: 40px;
+}
+.delete-button{
+    background-color: rgb(80, 79, 79);
+    border-radius: 5px;
+    border: 2px solid black;
+    color: white;
+}
+
+    
+
